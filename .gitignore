@@ -1,0 +1,13 @@
+# Laravel
+eduteka-course-apirest-backend/vendor
+eduteka-course-apirest-backend/.env
+eduteka-course-apirest-backend/storage/*.key
+
+# React/Vite
+eduteka-course-apirest-frontend/node_modules
+eduteka-course-apirest-frontend/dist
+eduteka-course-apirest-frontend/.env
+
+# Geral
+.DS_Store
+Thumbs.db
